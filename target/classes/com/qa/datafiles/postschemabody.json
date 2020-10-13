@@ -1,0 +1,12 @@
+{
+    "firstname" : "Christopher",
+    "lastname" : "Rohan",
+    "totalprice" : 99999,
+    "depositpaid" : true,
+    "bookingdates" : {
+        "checkin" : "2020-08-01",
+        "checkout" : "2020-09-11"
+    },
+    
+    "additionalneeds":"Lunch"
+}
